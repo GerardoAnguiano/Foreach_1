@@ -28,7 +28,7 @@ namespace Foreach_1
             {
                 Total = Total + element;
             }
-            Console.WriteLine("La sumatoria de las edades es:" + Total);
+            Console.WriteLine("La sumatoria de las edades es:" + Total); 
         }
     }
 }
